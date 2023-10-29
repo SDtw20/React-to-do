@@ -7,3 +7,7 @@ It can be used to perform following actions:
 - Mark the tasks as done or undo them
 - Filter the tasks: All(Active + Completed), Active(The tasks which haven't been completed), completed(The tasks which have been marked as done)
 - Delete any existing task
+
+Testing
+- Unit testing
+- e2e testing using cypress
